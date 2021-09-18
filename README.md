@@ -9,8 +9,8 @@ Create an account, explore and like pictures to check them later in your favorit
 ## Built With
 
 - Javascript
-- React, Express
-- Apollo, GraphQL 
+- React, Express, Cypress
+- Apollo, GraphQL
 
 ## Live Demo
 
