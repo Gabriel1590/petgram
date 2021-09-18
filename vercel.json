@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "alias": ["petgram-app"],
     "builds": [
         {
             "use": "@vercel/static-build",

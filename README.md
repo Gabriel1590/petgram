@@ -1,6 +1,6 @@
 # Petgram
 
-> An Instagram like app to see animals.
+> An Instagram like PWA to see animals.
 
 ![screenshot](./src/assets/petgram.png)
 
@@ -10,11 +10,11 @@ Create an account, explore and like pictures to check them later in your favorit
 
 - Javascript
 - React, Express, Cypress
-- Apollo, GraphQL
+- Apollo, GraphQL, Vercel
 
 ## Live Demo
 
-[Live Demo Link](https://curso-platzi-react-avanzado-gabriel1590.vercel.app/)
+[Live Demo Link](https://petgram-gabriel1590.vercel.app/)
 
 
 ## Getting Started
@@ -43,7 +43,7 @@ Para correr en un servidor:
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@Gabriel1590](https://github.com/Gabriel1590)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
